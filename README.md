@@ -2,6 +2,8 @@
 
 **Coronavirus API** > **Coronavirus Update**. Live coronavirus updates for statistics with historical data, maps, charts, graphs. Coronavirus (COVID-19) live updates and historical data including *Day*, *Week*, *Month*, *Year*, *Change per Day*, *Difference*, and *Summary*. *Total Cases*, *Active*, *Deaths*, *Recovered* and *% ratio*. World *Regions* by *Country* and by *State*. **Spots** (day, week, month, year and other). Free corona virus live updates with COVID-19 API.
 
+> It is very important to verify the sources used by the API you’re about to implement in your own website/software. It is also important that the given **API has a way to detect and avoid passing wrong data** (e.g. caused by hacked source/database). There are simple ways of detecting wrong numbers, make sure the API you select is safely serving the correct case numbers.
+
 ## Coronavirus API ##
 
 **[API Home Page](https://quarantine.country/coronavirus/api/)** | **[Demo](https://quarantine.country/coronavirus/cases/usa/)** | **[API Documentation](https://quarantine.country/coronavirus/api/documentation/v1/)**
