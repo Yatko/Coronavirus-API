@@ -34,8 +34,8 @@ Coronavirus (COVID-19) live updates and historical data including *Day*, *Week*,
 
 ### Examples ###
 
-- [Coronavirus cases in USA (CodePen)](https://codepen.io/_yatko/pen/ExVyxzd/)
-- [Coronavirus cases in USA (JSFiddle)](https://jsfiddle.net/Yatko/61mwfpbt/)
+- [Coronavirus cases in USA (CodePen)](https://codepen.io/_yatko/pen/RwWRNrW/)
+- [Coronavirus cases in USA (JSFiddle)](https://jsfiddle.net/Yatko/sm2j1vkw/)
 
 JavaScript - jQuery
 ```JavaScript
